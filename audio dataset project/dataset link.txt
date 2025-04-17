@@ -1,0 +1,9 @@
+https://www.kaggle.com/datasets/dmitrybabko/speech-emotion-recognition-en
+
+
+kagglecli
+Download via
+New to Kaggle API? Here's how to set up your API keys.
+
+#!/bin/bash
+kaggle datasets download dmitrybabko/speech-emotion-recognition-en
