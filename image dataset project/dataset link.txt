@@ -1,0 +1,4 @@
+dataset link:
+https://www.kaggle.com/datasets/puneet6060/intel-image-classification
+api command:
+kaggle datasets download puneet6060/intel-image-classification
